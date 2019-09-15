@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "975200135974",
+    "firebase_url": "https://greencare-bccdc.firebaseio.com",
+    "project_id": "greencare-bccdc",
+    "storage_bucket": "greencare-bccdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975200135974:android:d49334d4079cba18",
+        "android_client_info": {
+          "package_name": "com.example.malayishant.greencare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975200135974-j447u0pgpjcpg0qoho6n7de87skqap1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.malayishant.greencare",
+            "certificate_hash": "e4cd7ab873c4b99e8a00958fda826d7554bfb75c"
+          }
+        },
+        {
+          "client_id": "975200135974-ve2iep1ergjicvb0g4pll1e3cmfdrk79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvKy10qo2vI_D8XLFf27Wwgn-cWFcdBPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975200135974-ve2iep1ergjicvb0g4pll1e3cmfdrk79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
